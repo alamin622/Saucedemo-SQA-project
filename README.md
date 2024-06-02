@@ -6,13 +6,13 @@ A suite of automation tests written with JavaScript and automated with Cypress J
 2.	Node.js as runtime environment 
 3.	Cypress as automation framework for web applications
 4.	Google Chrome as test browser
-5.	
+
 # Setup and installation 🛠️
 1. NodeJS Download and install (https://nodejs.org/en/download/prebuilt-installer)
 2. Setup Environment(https://www.youtube.com/watch?v=Pa-YPdl1rX8&ab_channel=Tutorialspoint)
    
-•	Download the Zip code
-•	Extract the code
+1. Download the Zip code
+2. Extract the code
 In the project's local folder, I installed the Cypress automatic testing framework from the Command Prompt, by executing the command: "npm i cypress".
 After the final installation of Cypress, I had to open it by command line "npx cypress open" in Command Prompt and configure the framework for this project: selecting the type of testing for this project (End-to-End Testing), selecting the Google Chrome browser to run the website.
 
