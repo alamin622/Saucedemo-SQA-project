@@ -18,8 +18,8 @@ After the final installation of Cypress, I had to open it by command line "npx c
 
 #install cypress-mochawesome-reporter
 - from the Command Prompt
-•	npm i --save-dev cypress-mochawesome-reporter
-•	npx cypress run
+1.	npm i --save-dev cypress-mochawesome-reporter
+2.	npx cypress run
 
 📌 Demo video of the Automation test 🎬
 Below is the video recording of the automation tests execution, made for automated different test cases on Saucedemo.com website.
